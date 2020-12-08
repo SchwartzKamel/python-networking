@@ -1,10 +1,17 @@
 # Python for Network Engineers
 
-[Week 1]()
-[Week 2]()
-[Week 3]()
-[Week 4]()
-[Week 5]()
-[Week 6]()
-[Week 7]()
-[Week 8]()
+Week 1 - [Here](../tree/master/Week_1)
+
+Week 2 - [Here]()
+
+Week 3 - [Here]()
+
+Week 4 - [Here]()
+
+Week 5 - [Here]()
+
+Week 6 - [Here]()
+
+Week 7 - [Here]()
+
+Week 8 - [Here]()
