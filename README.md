@@ -1,6 +1,6 @@
 # Python for Network Engineers
 
-Week 1 - [Here](../tree/master/Week_1)
+Week 1 - [Here](/tree/master/Week_1)
 
 Week 2 - [Here]()
 
