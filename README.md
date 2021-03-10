@@ -2,7 +2,7 @@
 
 Week 1 - [Here](/Week_1)
 
-Week 2 - [Here]()
+Week 2 - [Here](/Week_2)
 
 Week 3 - [Here]()
 
